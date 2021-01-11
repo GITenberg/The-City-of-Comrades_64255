@@ -1,5 +1,8 @@
 _repo: The-City-of-Comrades_64255
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64255-h/images/cover.jpg
 creator:
   author:
     agent_name: King, Basil
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3214
     wikipedia: https://en.wikipedia.org/wiki/Basil_King
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64255#The-City-of-Comrades
 gutenberg_issued: '2021-01-10'
 gutenberg_type: Text
 identifiers:
